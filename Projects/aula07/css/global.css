@@ -1,0 +1,27 @@
+body{
+    background-color: #e0fbfc;
+}
+.menu{
+    background-color: #98c1d9;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+.principal{
+    background-color: #3d5a80;
+    height: 200px;
+    width: 200px;
+}
+.info{
+    background-color: #ee6c4d;
+    height: 200px;
+    width: 200px;
+}
+.post{
+    background-color: #293241;
+    height: 200px;
+    width: 200px;
+}
+h1{
+    font-family: 'AmazObitaemOstrovBold', sans-serif;
+}

@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 50px;
+}
+h1 {
+    font-size: 100px;
+}
+img {
+    border-radius: 50px;
+}
+p{
+    width: 300px;
+}
